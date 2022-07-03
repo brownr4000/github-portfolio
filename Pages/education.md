@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <b>Certificate in Computer Science Fundamentals</b> | Completed June 2021<br />
+      <b>Certificate in Computer Science Fundamentals</b> <br />
       <a href="https://www.seattleu.edu/">Seattle University</a> - Seattle, WA<br />
       GPA: 3.80
     </td>
