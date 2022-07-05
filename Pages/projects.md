@@ -11,7 +11,7 @@
 
 [Image Processor](https://github.com/brownr4000/ImageProcessor) | Mar 2022 - May 2022
 - Image Processor API created to demonstrate software architecture design patterns
-- A client/server model application using RESTful-style design to perform image transformations without modifying the state of the server.
+- A client/server model application using RESTful-style design to perform image transformations
 - C#, REST, RESTful, API Design
 
 ---
