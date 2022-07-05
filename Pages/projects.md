@@ -4,7 +4,7 @@
 
 **Super Star Trek Software Testing** | Mar 2022 - Jun 2022
 - Added software testing to an open-source project, the C# version of the [Super Star Trek](https://github.com/coding-horror/basic-computer-games/tree/main/84_Super_Star_Trek) game
-- Demonstrates unit testing, mocking, and code coverage
+- Demonstrates unit testing, regression testing, mocking, and code coverage
 - C#, NUnit, Moq, Stryker, Software Testing 
 
 ---
