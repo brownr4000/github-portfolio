@@ -17,9 +17,11 @@
 ---
 
 [Battle of Cosmos](https://github.com/brownr4000/5250Constellation) | Jan 2022 - Mar 2022
-- A cross-platform mobile video game with a combined team of developers and artists
-- Game mechanics developer on a 5-student team leveraging Xamarin to develop an Android and Windows game application with a custom Agents vs. Aliens them
-- C#, Xamarin, Android 
+- A cross-platform mobile video game developed utilzing Xamarin
+- Combines game mechanics and graphical user interface elements for Android and Windows platforms
+- Custom Agents vs. Aliens theme developed with a 5-student team or 3 developers and 2 artists
+- C#, Xamarin, Android
+
 ---
 
 **Cherry Pick** | Sep 2021 - Dec 2021
