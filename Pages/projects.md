@@ -48,4 +48,10 @@ library
 
 ---
 
+[Eigenmode Finder](https://github.com/brownr4000/eigenmode-finder)
+- Program to compute the natural frequencies and eigenmode displacements of a three-degree of freedom spring-mass system
+- FORTRAN
+
+---
+
 [Back to main page](./../README.md)
