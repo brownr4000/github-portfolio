@@ -31,7 +31,7 @@
 
 ---
 
-[Multithreaded Operations](https://github.com/brownr4000/multithread-ops) | Mar 2022 - Jun 2022
+[Multithreaded Operations](https://github.com/brownr4000/multithread-ops) | Mar 2021 - Jun 2021
 - Series of small programs that demonstrate simple multithreading techniques
 - C++, [thread](https://www.cplusplus.com/reference/thread/thread/)
 library
