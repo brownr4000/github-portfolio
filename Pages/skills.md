@@ -13,11 +13,25 @@
 ---
 
 ## Tools & Technologies
-IntelliJ IDEA, CLion, Visual Studio, Visual Studio Code, GitHub
 
-Linux, Windows, MS Office
+### Integrated Development Environments
+- IntelliJ IDEA, 
+- CLion
+- Visual Studio
+- Visual Studio Code
 
-JUnit, NUnit
+### Frameworks
+- JUnit
+- NUnit
+- Moq
+
+### Operating Systems
+- Linux
+- Windows
+
+### General Technologies
+- GitHub
+- MS Office
 
 ---
 
@@ -32,5 +46,11 @@ JUnit, NUnit
 
 ---
 
+## Interpersonal Skills
+- Analytical Skills
+- Cross-team Collaboration
+- Problem Solving
+
+---
 
 [Back to main page](./../README.md)
