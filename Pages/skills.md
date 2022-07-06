@@ -15,7 +15,7 @@
 ## Tools & Technologies
 
 ### Integrated Development Environments
-- IntelliJ IDEA, 
+- IntelliJ IDEA
 - CLion
 - Visual Studio
 - Visual Studio Code
