@@ -24,9 +24,9 @@
 
 ---
 
-**Cherry Pick** | Sep 2021 - Dec 2021
-- Project to demonstrate agile engineering principles through development of a website that showcases local restaurants
-- Developer on a 4-student team utilizing .NET and Azure development environments to implement the restaurant recommendation website backend and demonstrate CRUD operations
+[Cherry Pick](https://github.com/brownr4000/ACES.Cherry-Pick) | Sep 2021 - Dec 2021
+- Project to demonstrate Agile Methodoligies and principles through development of a website that showcases local restaurants
+- Utilizes ASP.NET and Azure development environments to implement a restaurant recommendation website
 - C#, dotNET, ASP.NET, Azure, CRUD
 
 ---
