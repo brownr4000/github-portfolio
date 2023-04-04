@@ -6,7 +6,7 @@
     <td>
       <b>Master of Science in Computer Science</b> | Anticipated Spring 2023<br />
       <a href="https://www.seattleu.edu/">Seattle University</a> - Seattle, WA<br />
-      GPA: 3.85
+      GPA: 3.8
     </td>
   </tr>
   <tr>
